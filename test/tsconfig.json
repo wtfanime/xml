@@ -1,0 +1,17 @@
+{
+    "extends": "../etc/tsconfig.json",
+    "include": [
+        "./**/*"
+    ],
+    "references": [
+        {
+            "path": "../src/"
+        }
+    ],
+    "compilerOptions": {
+        "rootDir": "./",
+        "outDir": "../.etc/build/test/",
+        "tsBuildInfoFile": "../.etc/build/test/.tsbuildinfo",
+        "composite": true
+    }
+}

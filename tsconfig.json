@@ -1,0 +1,12 @@
+{
+    "extends": "./etc/tsconfig.json",
+    "files": [],
+    "references": [
+        {
+            "path": "./src/"
+        }
+    ],
+    "compilerOptions": {
+        "composite": true
+    }
+}

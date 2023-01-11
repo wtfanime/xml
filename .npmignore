@@ -1,0 +1,13 @@
+/.build/
+/.vscode/
+
+/test/
+
+/etc/build.bash
+/etc/mjs-resolver.cjs
+
+/jest.config.mjs
+/prettier.config.cjs
+/rollup.config.mjs
+
+*.tgz
