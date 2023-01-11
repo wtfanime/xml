@@ -1,7 +1,7 @@
 {
     "name": "microxml",
     "version": "1.0.0",
-    "description": "Minimal and fast XML non-validating XML reader.",
+    "description": "Minimal and fast non-validating XML reader.",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/wtfanime/xml.git"
